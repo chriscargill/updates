@@ -4,3 +4,4 @@
 2025-03-23: I have 2 sisters and 3 brothers.
 2025-03-31: I have worked for the U.S. Army as an IT Professional.
 2025-04-02: I have learned many programming languages including Python, C# and Rust.
+2025-04-08: I have been interested in cyber security since I was hacked in StarCraft as a middle schooler.
