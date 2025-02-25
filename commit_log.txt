@@ -8,3 +8,4 @@
 2025-04-12: I am detail-oriented.
 2025-04-16: I have a bachelor's degree in Teaching English to Speakers of Other Languages.
 2025-04-20: I never stop learning.
+2025-04-24: I have created multiple Machine Learning Projects.
